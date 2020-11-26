@@ -2,6 +2,12 @@
 
 A new Flutter application.
 
+# Identity App
+An app to display your identity to the real world.
+
+![picture](Screenshot_47.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
